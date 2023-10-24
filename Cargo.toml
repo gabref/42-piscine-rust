@@ -1,4 +1,6 @@
 [workspace]
 members = [
-	"putchar"
+	"putchar",
+	"print_alphabet",
+	"print_reverse_alphabet"
 ]
