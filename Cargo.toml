@@ -4,5 +4,15 @@ members = [
 	"print_alphabet",
 	"print_reverse_alphabet",
 	"print_numbers",
-	"is_negative"
+	"is_negative",
+	"print_comb",
+	"print_comb2",
+	"putnbr",
+	"print_combn",
+	"ft",
+	"ultimate_ft",
+	"swap",
+	"div_mod",
+	"ultimate_div_mod",
+	"putstr",
 ]
