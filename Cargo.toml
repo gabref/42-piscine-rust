@@ -15,4 +15,5 @@ members = [
 	"div_mod",
 	"ultimate_div_mod",
 	"putstr",
+	"print_memory",
 ]
